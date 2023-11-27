@@ -1,10 +1,6 @@
 import pygame
 import random
 import math
-import os
-
-path=os.getcwd()
-print (path)
 # inicializar pygame
 pygame.init()
 # set window
