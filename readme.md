@@ -1,0 +1,2 @@
+El proyecto es un juego, un shooter con movimiento en los ejex X e Y, donde se cuentan la cantidad de veces que el jugador es capaz de dispararle y acertar al objetivo.
+Posee un menú de entrada con instrucciones básicas para empezar a jugar y quitar el juego. El jugador pierde una vez que se escapa el primer objetivo, en ese momento aparece un nuevo menú que da las posibilidades de mpezar de nuevo o quitar la aplicación.
